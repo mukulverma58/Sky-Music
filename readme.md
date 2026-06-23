@@ -18,4 +18,5 @@ THE TECH STACK USED : -
 
 
 
-## 📸 Demo
+📸 Demo :)
+![DEMO :)](demo.png)
